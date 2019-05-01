@@ -34,8 +34,8 @@ most fundamental resources
 - []() 
 
 ## Planning
-- [Laws Of UX](https://lawsofux.com/) 
 - [Gallery](https://gallery.io) 
+- [Laws Of UX](https://lawsofux.com/) 
 - [Github](https://github.com/) 
 - [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#lines) 
 - []() 
