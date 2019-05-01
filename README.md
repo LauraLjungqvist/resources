@@ -59,8 +59,12 @@ most fundamental resources
 - []() 
 
 #### Typography
-- [Font Awesome](https://fontawesome.com/) 
+- [Google Font](https://fonts.google.com/) 
+- [DaFont](https://www.dafont.com/theme.php?cat=501&page=60) 
 - [Lorem Ipsum](https://www.lipsum.com/) 
+- [Material Icons](https://material.io/tools/icons/?style=baseline) 
+- [Font Awesome](https://fontawesome.com/) 
+- [Icon Transform](http://www.transformicons.com/) 
 - []() 
 
 ## Development
