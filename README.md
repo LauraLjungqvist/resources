@@ -8,10 +8,24 @@ most fundamental resources
   * Logo
   * Typography
 - Design
+  * Color
+  * Logo
+  * Typography
 - Development
   * Accessibility & Webstandards
+  * Framework
+  * Database  
   * Site Performance
   * Markup
+- Testing
+  * Unit Testing
+  * Intergration Testing
+  * Visual Regression Testing
+  * End-To-End Testing
+  * Stress Testing
+  * Performance Testing
+  * Usability Testing
+  * Beta Testing  
 - Launch
 - Maintenance
   * Content Updates
@@ -25,6 +39,8 @@ most fundamental resources
 - Analytics
 - Learning
 - Portfolio
+- Productivity
+- Leadership
 - Podcasts
 - Privacy & Security
 
@@ -95,6 +111,25 @@ most fundamental resources
 - []() 
 
 #### Markup
+- []() 
+
+## Testing
+
+#### Unit Testing
+- []() 
+#### Intergration Testing
+- []() 
+#### Visual Regression Testing
+- []() 
+#### End-To-End Testing
+- []() 
+#### Stress Testing
+- []() 
+#### Performance Testing
+- []() 
+#### Usability Testing
+- []() 
+#### Beta Testing
 - []() 
 
 ## Launch
