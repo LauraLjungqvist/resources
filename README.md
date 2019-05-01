@@ -82,7 +82,7 @@ most fundamental resources
 
 #### Framework
 - [Material Design](https://material.io/) 
-- [https://getbootstrap.com/](Bootstrap) 
+- [Bootstrap](https://getbootstrap.com/) 
 - [Wordpress](https://wordpress.org/) 
 - []() 
 
@@ -173,6 +173,7 @@ most fundamental resources
 - [Case Against Overtime](https://ideas.ted.com/the-business-case-against-overtime-2) 
 - [Why every office should scrap its clean desk policy](https://ideas.ted.com/why-every-office-should-scrap-its-clean-desk-policy) 
 - [10 Group Psychology Theories Leaders Need To Know](https://aboutleaders.com/10-group-psychology-theories-leaders-need-to-know) 
+- [Contributor Covenant](https://www.contributor-covenant.org) 
 - []() 
 
 ## Privacy & Security
