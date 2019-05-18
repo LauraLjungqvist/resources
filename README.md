@@ -70,6 +70,9 @@ most fundamental resources
 - [Color Contrast Analyzer](https://developer.paciellogroup.com/resources/contrastanalyser/) 
 - []() 
 
+#### Artwork
+- [Image Compression](https://squoosh.app/)
+
 #### Logo
 - [Logo Rationale](http://www.logocritiques.com/resources/how_to_write_a_logo_rationale/) 
 - []() 
