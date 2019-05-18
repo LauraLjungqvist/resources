@@ -9,6 +9,7 @@ most fundamental resources
   * Typography
 - Design
   * Color
+  * Artwork
   * Logo
   * Typography
 - Development
