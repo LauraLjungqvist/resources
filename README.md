@@ -69,6 +69,7 @@ most fundamental resources
 - [Adobe Color Wheel](https://color.adobe.com/sv/create/color-wheel/) 
 - [Color Harmonies](https://codepen.io/meodai/full/KagxwW) 
 - [Color Contrast Analyzer](https://developer.paciellogroup.com/resources/contrastanalyser/) 
+- [Accessible Color Generator](https://confrere.com/a11y/test/) 
 - []() 
 
 #### Artwork
